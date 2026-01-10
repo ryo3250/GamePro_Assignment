@@ -68,12 +68,12 @@ namespace
 	return true;
 }
 
-[nodiscard] HWND window::handle() const noexcept 
+[[nodiscard]] HWND window::handle() const noexcept 
 {
 	return handle_;
 }
 
-[nodiscard] std::pair<int, int> window::size() const noexcept 
+[[nodiscard]]std::pair<int, int> window::size() const noexcept 
 {
 	return { witdh_, height_ };
 }
