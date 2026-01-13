@@ -131,10 +131,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="command_allocator.h" />
+    <ClInclude Include="command_list.h" />
+    <ClInclude Include="device.h" />
+    <ClInclude Include="DXGI.h" />
     <ClInclude Include="input.h" />
+    <ClInclude Include="util.h" />
     <ClInclude Include="window.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="command_allocator.cpp" />
+    <ClCompile Include="command_list.cpp" />
+    <ClCompile Include="device.cpp" />
+    <ClCompile Include="DXGI.cpp" />
     <ClCompile Include="input.cpp" />
     <ClCompile Include="window.cpp" />
   </ItemGroup>

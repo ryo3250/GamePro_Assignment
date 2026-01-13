@@ -1,21 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\",
+  "WorkspaceRootPath": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\device.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\device.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\command_list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\command_list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\command_list.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\command_list.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\command_allocator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\command_allocator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\command_allocator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\command_allocator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\device.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\device.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\DXGI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\DXGI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\DXGI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\DXGI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\window.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\window.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\window.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -26,59 +62,178 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "command_list.cpp",
+              "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\command_list.cpp",
+              "RelativeDocumentMoniker": "Game_Pro\\command_list.cpp",
+              "ToolTip": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\command_list.cpp",
+              "RelativeToolTip": "Game_Pro\\command_list.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-13T16:06:01.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "command_list.h",
+              "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\command_list.h",
+              "RelativeDocumentMoniker": "Game_Pro\\command_list.h",
+              "ToolTip": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\command_list.h",
+              "RelativeToolTip": "Game_Pro\\command_list.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-13T16:05:52.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "device.cpp",
+              "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\device.cpp",
+              "RelativeDocumentMoniker": "Game_Pro\\device.cpp",
+              "ToolTip": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\device.cpp",
+              "RelativeToolTip": "Game_Pro\\device.cpp",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-13T12:51:01.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "util.h",
+              "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\util.h",
+              "RelativeDocumentMoniker": "Game_Pro\\util.h",
+              "ToolTip": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\util.h",
+              "RelativeToolTip": "Game_Pro\\util.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-13T12:55:22.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "device.h",
+              "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\device.h",
+              "RelativeDocumentMoniker": "Game_Pro\\device.h",
+              "ToolTip": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\device.h",
+              "RelativeToolTip": "Game_Pro\\device.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-13T12:50:57.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "command_allocator.cpp",
+              "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\command_allocator.cpp",
+              "RelativeDocumentMoniker": "Game_Pro\\command_allocator.cpp",
+              "ToolTip": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\command_allocator.cpp",
+              "RelativeToolTip": "Game_Pro\\command_allocator.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-13T12:47:03.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "command_allocator.h",
+              "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\command_allocator.h",
+              "RelativeDocumentMoniker": "Game_Pro\\command_allocator.h",
+              "ToolTip": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\command_allocator.h",
+              "RelativeToolTip": "Game_Pro\\command_allocator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-13T12:46:49.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DXGI.cpp",
+              "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\DXGI.cpp",
+              "RelativeDocumentMoniker": "Game_Pro\\DXGI.cpp",
+              "ToolTip": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\DXGI.cpp",
+              "RelativeToolTip": "Game_Pro\\DXGI.cpp",
+              "ViewState": "AQIAADYAAAAAAAAAAADwv1MAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-13T11:51:27.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DXGI.h",
+              "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\DXGI.h",
+              "RelativeDocumentMoniker": "Game_Pro\\DXGI.h",
+              "ToolTip": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\DXGI.h",
+              "RelativeToolTip": "Game_Pro\\DXGI.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-13T11:51:25.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "input.cpp",
-              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\input.cpp",
+              "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\input.cpp",
               "RelativeDocumentMoniker": "Game_Pro\\input.cpp",
-              "ToolTip": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\input.cpp",
+              "ToolTip": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\input.cpp",
               "RelativeToolTip": "Game_Pro\\input.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-01-10T08:12:08.71Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "window.cpp",
-              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\window.cpp",
+              "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\window.cpp",
               "RelativeDocumentMoniker": "Game_Pro\\window.cpp",
-              "ToolTip": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\window.cpp",
+              "ToolTip": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\window.cpp",
               "RelativeToolTip": "Game_Pro\\window.cpp",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-10T08:03:53.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-10T08:03:53.672Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "input.h",
-              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\input.h",
+              "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\input.h",
               "RelativeDocumentMoniker": "Game_Pro\\input.h",
-              "ToolTip": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\input.h",
+              "ToolTip": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\input.h",
               "RelativeToolTip": "Game_Pro\\input.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-01-10T08:04:40.791Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "window.h",
-              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\window.h",
+              "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\window.h",
               "RelativeDocumentMoniker": "Game_Pro\\window.h",
-              "ToolTip": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\window.h",
+              "ToolTip": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\game_pro\\Game_Pro\\Game_Pro\\window.h",
               "RelativeToolTip": "Game_Pro\\window.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-01-10T07:52:39.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-10T07:52:39.09Z"
             }
           ]
         }
