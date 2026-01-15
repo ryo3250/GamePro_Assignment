@@ -28,6 +28,12 @@
     <ClInclude Include="command_list.h">
       <Filter>directx</Filter>
     </ClInclude>
+    <ClInclude Include="command_queue.h">
+      <Filter>directx</Filter>
+    </ClInclude>
+    <ClInclude Include="descriptor_heap.h">
+      <Filter>directx</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="input.cpp">
@@ -46,6 +52,12 @@
       <Filter>directx</Filter>
     </ClCompile>
     <ClCompile Include="command_list.cpp">
+      <Filter>directx</Filter>
+    </ClCompile>
+    <ClCompile Include="command_queue.cpp">
+      <Filter>directx</Filter>
+    </ClCompile>
+    <ClCompile Include="descriptor_heap.cpp">
       <Filter>directx</Filter>
     </ClCompile>
   </ItemGroup>
