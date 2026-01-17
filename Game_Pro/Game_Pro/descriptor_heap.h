@@ -4,7 +4,7 @@
 #include<optional>
 #include<memory>
 
-class DescriptorHeap;
+class descriptor_heap;
 
 class descriptor_heap_container final
 {
@@ -39,6 +39,6 @@ private:
 	descriptor_heap_container& operator=(descriptor_heap_container&& r) = delete;
 
 private:
-	std::unordered_map<UINT, std::unique_ptr<DescriptorHeap>> map_{};
+	std::unordered_map<UINT, std::unique_ptr<descriptor_heap>> map_{};
 };
 
