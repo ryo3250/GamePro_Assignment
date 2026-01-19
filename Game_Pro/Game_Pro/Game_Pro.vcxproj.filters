@@ -34,6 +34,18 @@
     <ClInclude Include="descriptor_heap.h">
       <Filter>directx</Filter>
     </ClInclude>
+    <ClInclude Include="constant_buffer.h">
+      <Filter>directx</Filter>
+    </ClInclude>
+    <ClInclude Include="depth_buffer.h">
+      <Filter>directx</Filter>
+    </ClInclude>
+    <ClInclude Include="fence.h">
+      <Filter>directx</Filter>
+    </ClInclude>
+    <ClInclude Include="shader.h">
+      <Filter>directx</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="input.cpp">
@@ -58,6 +70,18 @@
       <Filter>directx</Filter>
     </ClCompile>
     <ClCompile Include="descriptor_heap.cpp">
+      <Filter>directx</Filter>
+    </ClCompile>
+    <ClCompile Include="constant_buffer.cpp">
+      <Filter>directx</Filter>
+    </ClCompile>
+    <ClCompile Include="depth_buffer.cpp">
+      <Filter>directx</Filter>
+    </ClCompile>
+    <ClCompile Include="fence.cpp">
+      <Filter>directx</Filter>
+    </ClCompile>
+    <ClCompile Include="shader.cpp">
       <Filter>directx</Filter>
     </ClCompile>
   </ItemGroup>
