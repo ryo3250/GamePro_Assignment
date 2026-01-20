@@ -12,7 +12,7 @@ public:
 	~pipline_state_object() = default;
 
 
-	[[nodiscrd]] bool create(const shader& shader, const root_signature& rootSignature) noexcept;
+	[[nodiscrd]] bool create(const Shader& shader, const root_signature& rootSignature) noexcept;
 
 	[[nodiscrd]] ID3D12PipelineState* get() const noexcept;
 

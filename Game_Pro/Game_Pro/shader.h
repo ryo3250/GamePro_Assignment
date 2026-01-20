@@ -1,11 +1,11 @@
 #pragma once
 #include "device.h"
 
-class shader final {
+class Shader final {
 public:
-    shader() = default;
+    Shader() = default;
 
-    ~shader() = default;
+    ~Shader() = default;
 
     [[nodiscard]] bool create() noexcept;
 

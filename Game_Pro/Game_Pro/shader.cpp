@@ -5,7 +5,7 @@
 #include<d3dcompiler.h>
 #pragma comment(lib,"d3dcompiler.lib")
 
-[[nodiscard]] bool shader::create() noexcept 
+[[nodiscard]] bool Shader::create() noexcept 
 {
     const std::string filePath = "asset/shader.hlsl";
     const std::wstring temp     = std::wstring(filePath.begin(), filePath.end());
@@ -30,7 +30,7 @@
     return true;
 }
 
-[[nodiscard]] ID3DBlob* shader::vertexShader() const noexcept 
+[[nodiscard]] ID3DBlob* Shader::vertexShader() const noexcept 
 {
     if (!vertexShader_) {
         assert(false && "頂点シェーダが未作成です");
@@ -39,7 +39,7 @@
     return vertexShader_.Get();
 }
 
-[[nodiscard]] ID3DBlob* shader::pixelShader() const noexcept 
+[[nodiscard]] ID3DBlob* Shader::pixelShader() const noexcept 
 {
     if (!pixelShader) {
         assert(false && "ピクセルシェーダが未作成です");
