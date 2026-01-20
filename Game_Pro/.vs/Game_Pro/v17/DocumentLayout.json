@@ -3,8 +3,35 @@
   "WorkspaceRootPath": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\pipline_state_object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\pipline_state_object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\pipline_state_object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\pipline_state_object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\root_signature.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\root_signature.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\root_signature.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\root_signature.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\fence.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\fence.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\shader.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -13,10 +40,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\fence.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\fence.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\fence.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\fence.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\depth_buffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -91,10 +114,6 @@
       "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\DXGI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\DXGI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\DXGI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -119,19 +138,88 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "pipline_state_object.cpp",
+              "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\pipline_state_object.cpp",
+              "RelativeDocumentMoniker": "Game_Pro\\pipline_state_object.cpp",
+              "ToolTip": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\pipline_state_object.cpp",
+              "RelativeToolTip": "Game_Pro\\pipline_state_object.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-20T12:31:41.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "root_signature.cpp",
+              "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\root_signature.cpp",
+              "RelativeDocumentMoniker": "Game_Pro\\root_signature.cpp",
+              "ToolTip": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\root_signature.cpp",
+              "RelativeToolTip": "Game_Pro\\root_signature.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwEUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-20T11:56:49.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "root_signature.h",
+              "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\root_signature.h",
+              "RelativeDocumentMoniker": "Game_Pro\\root_signature.h",
+              "ToolTip": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\root_signature.h",
+              "RelativeToolTip": "Game_Pro\\root_signature.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-20T11:53:40.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pipline_state_object.h",
+              "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\pipline_state_object.h",
+              "RelativeDocumentMoniker": "Game_Pro\\pipline_state_object.h",
+              "ToolTip": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\pipline_state_object.h",
+              "RelativeToolTip": "Game_Pro\\pipline_state_object.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-20T11:52:15.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "shader.hlsl",
+              "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\shader.hlsl",
+              "RelativeDocumentMoniker": "..\\..\\shader.hlsl",
+              "ToolTip": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\shader.hlsl",
+              "RelativeToolTip": "..\\..\\shader.hlsl",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-01-20T10:23:56.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "shader.cpp",
               "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\shader.cpp",
               "RelativeDocumentMoniker": "Game_Pro\\shader.cpp",
               "ToolTip": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\shader.cpp",
               "RelativeToolTip": "Game_Pro\\shader.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC8AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-01-19T12:07:08.729Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "shader.h",
               "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\shader.h",
               "RelativeDocumentMoniker": "Game_Pro\\shader.h",
@@ -139,12 +227,11 @@
               "RelativeToolTip": "Game_Pro\\shader.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-01-19T12:07:04.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T12:07:04.298Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "fence.cpp",
               "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\fence.cpp",
               "RelativeDocumentMoniker": "Game_Pro\\fence.cpp",
@@ -152,12 +239,11 @@
               "RelativeToolTip": "Game_Pro\\fence.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-19T11:46:05.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T11:46:05.616Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "fence.h",
               "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\fence.h",
               "RelativeDocumentMoniker": "Game_Pro\\fence.h",
@@ -170,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "depth_buffer.cpp",
               "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\depth_buffer.cpp",
               "RelativeDocumentMoniker": "Game_Pro\\depth_buffer.cpp",
@@ -178,12 +264,11 @@
               "RelativeToolTip": "Game_Pro\\depth_buffer.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-19T09:50:26.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T09:50:26.497Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "depth_buffer.h",
               "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\depth_buffer.h",
               "RelativeDocumentMoniker": "Game_Pro\\depth_buffer.h",
@@ -191,12 +276,11 @@
               "RelativeToolTip": "Game_Pro\\depth_buffer.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-01-19T09:44:31.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T09:44:31.476Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "constant_buffer.cpp",
               "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\constant_buffer.cpp",
               "RelativeDocumentMoniker": "Game_Pro\\constant_buffer.cpp",
@@ -204,16 +288,11 @@
               "RelativeToolTip": "Game_Pro\\constant_buffer.cpp",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-19T07:22:56.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "WhenOpened": "2026-01-19T07:22:56.837Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "constant_buffer.h",
               "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\constant_buffer.h",
               "RelativeDocumentMoniker": "Game_Pro\\constant_buffer.h",
@@ -221,12 +300,11 @@
               "RelativeToolTip": "Game_Pro\\constant_buffer.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-01-19T07:22:54.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T07:22:54.354Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "descriptor_heap.cpp",
               "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\descriptor_heap.cpp",
               "RelativeDocumentMoniker": "Game_Pro\\descriptor_heap.cpp",
@@ -234,12 +312,11 @@
               "RelativeToolTip": "Game_Pro\\descriptor_heap.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-15T11:24:15.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T11:24:15.481Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "command_queue.cpp",
               "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\command_queue.cpp",
               "RelativeDocumentMoniker": "Game_Pro\\command_queue.cpp",
@@ -251,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "descriptor_heap.h",
               "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\descriptor_heap.h",
               "RelativeDocumentMoniker": "Game_Pro\\descriptor_heap.h",
@@ -263,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": ".clang-format",
               "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\.clang-format",
               "RelativeDocumentMoniker": ".clang-format",
@@ -275,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "device.h",
               "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\device.h",
               "RelativeDocumentMoniker": "Game_Pro\\device.h",
@@ -287,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "command_queue.h",
               "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\command_queue.h",
               "RelativeDocumentMoniker": "Game_Pro\\command_queue.h",
@@ -299,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "command_list.cpp",
               "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\command_list.cpp",
               "RelativeDocumentMoniker": "Game_Pro\\command_list.cpp",
@@ -311,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "command_list.h",
               "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\command_list.h",
               "RelativeDocumentMoniker": "Game_Pro\\command_list.h",
@@ -323,7 +400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "device.cpp",
               "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\device.cpp",
               "RelativeDocumentMoniker": "Game_Pro\\device.cpp",
@@ -335,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 2,
               "Title": "util.h",
               "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\util.h",
               "RelativeDocumentMoniker": "Game_Pro\\util.h",
@@ -343,11 +420,12 @@
               "RelativeToolTip": "Game_Pro\\util.h",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-01-13T12:55:22.525Z"
+              "WhenOpened": "2026-01-13T12:55:22.525Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "command_allocator.cpp",
               "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\command_allocator.cpp",
               "RelativeDocumentMoniker": "Game_Pro\\command_allocator.cpp",
@@ -359,7 +437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "command_allocator.h",
               "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\command_allocator.h",
               "RelativeDocumentMoniker": "Game_Pro\\command_allocator.h",
@@ -371,7 +449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "DXGI.cpp",
               "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\DXGI.cpp",
               "RelativeDocumentMoniker": "Game_Pro\\DXGI.cpp",
@@ -383,7 +461,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
               "Title": "DXGI.h",
               "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\DXGI.h",
               "RelativeDocumentMoniker": "Game_Pro\\DXGI.h",
@@ -395,7 +473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "input.cpp",
               "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\input.cpp",
               "RelativeDocumentMoniker": "Game_Pro\\input.cpp",
@@ -407,7 +485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "window.cpp",
               "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\window.cpp",
               "RelativeDocumentMoniker": "Game_Pro\\window.cpp",
@@ -415,12 +493,11 @@
               "RelativeToolTip": "Game_Pro\\window.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-10T08:03:53.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-10T08:03:53.672Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "input.h",
               "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\input.h",
               "RelativeDocumentMoniker": "Game_Pro\\input.h",
@@ -432,7 +509,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "window.h",
               "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game\\Game_Pro\\Game_Pro\\window.h",
               "RelativeDocumentMoniker": "Game_Pro\\window.h",
@@ -440,8 +517,7 @@
               "RelativeToolTip": "Game_Pro\\window.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-01-10T07:52:39.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-10T07:52:39.09Z"
             }
           ]
         }

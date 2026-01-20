@@ -141,6 +141,8 @@
     <ClInclude Include="DXGI.h" />
     <ClInclude Include="fence.h" />
     <ClInclude Include="input.h" />
+    <ClInclude Include="pipline_state_object.h" />
+    <ClInclude Include="root_signature.h" />
     <ClInclude Include="shader.h" />
     <ClInclude Include="util.h" />
     <ClInclude Include="window.h" />
@@ -156,8 +158,13 @@
     <ClCompile Include="DXGI.cpp" />
     <ClCompile Include="fence.cpp" />
     <ClCompile Include="input.cpp" />
+    <ClCompile Include="pipline_state_object.cpp" />
+    <ClCompile Include="root_signature.cpp" />
     <ClCompile Include="shader.cpp" />
     <ClCompile Include="window.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="..\..\..\shader.hlsl" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

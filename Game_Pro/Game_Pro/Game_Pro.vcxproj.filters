@@ -7,6 +7,9 @@
     <Filter Include="directx">
       <UniqueIdentifier>{c7b36464-3bc1-43ff-ac35-40da5c47775c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="asset">
+      <UniqueIdentifier>{9d3e3102-5b3c-4a53-8359-a46129fc983e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="input.h">
@@ -44,6 +47,10 @@
       <Filter>directx</Filter>
     </ClInclude>
     <ClInclude Include="shader.h">
+      <Filter>directx</Filter>
+    </ClInclude>
+    <ClInclude Include="pipline_state_object.h" />
+    <ClInclude Include="root_signature.h">
       <Filter>directx</Filter>
     </ClInclude>
   </ItemGroup>
@@ -84,5 +91,14 @@
     <ClCompile Include="shader.cpp">
       <Filter>directx</Filter>
     </ClCompile>
+    <ClCompile Include="pipline_state_object.cpp" />
+    <ClCompile Include="root_signature.cpp">
+      <Filter>directx</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="..\..\..\shader.hlsl">
+      <Filter>asset</Filter>
+    </FxCompile>
   </ItemGroup>
 </Project>
