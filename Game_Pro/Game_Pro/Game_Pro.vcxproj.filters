@@ -49,8 +49,10 @@
     <ClInclude Include="shader.h">
       <Filter>directx</Filter>
     </ClInclude>
-    <ClInclude Include="pipline_state_object.h" />
     <ClInclude Include="root_signature.h">
+      <Filter>directx</Filter>
+    </ClInclude>
+    <ClInclude Include="pipline_state_object.h">
       <Filter>directx</Filter>
     </ClInclude>
   </ItemGroup>
@@ -91,8 +93,10 @@
     <ClCompile Include="shader.cpp">
       <Filter>directx</Filter>
     </ClCompile>
-    <ClCompile Include="pipline_state_object.cpp" />
     <ClCompile Include="root_signature.cpp">
+      <Filter>directx</Filter>
+    </ClCompile>
+    <ClCompile Include="pipline_state_object.cpp">
       <Filter>directx</Filter>
     </ClCompile>
   </ItemGroup>
