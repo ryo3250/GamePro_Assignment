@@ -15,6 +15,6 @@ public:
     [[nodiscard]] const DXGI_SWAP_CHAIN_DESC1& getDesc() const noexcept;
 
 private:
-    Microsoft::WRL::ComPtr<IDXGISwapChain3> sawapChain_{};
+    Microsoft::WRL::ComPtr<IDXGISwapChain3> swapChain_{};
     DXGI_SWAP_CHAIN_DESC1                   swapChainDesc_{};
 };

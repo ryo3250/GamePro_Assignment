@@ -22,7 +22,35 @@
         const auto hr = device::instance().dxgi().factory()->CreateSwapChainForHwnd(
             commandQueue.get(), window::instance().handle(),
             &swapChainDesc_, nullptr, nullptr, tempSwapChain.GetAddressOf());
-        
-        
+        if (FAILED(hr)) {
+            assert(false && "スワップチェインの作成に失敗");
+            return false;
+        }
     }
+
+    {
+        const auto hr = tempSwapChain->QueryInterface(IID_PPV_ARGS(&swapChain_));
+        if (FAILED(hr)) {
+            assert(false && "スワップチェインのアップグレードに失敗");
+            return false;
+        }
+    }
+
+    return true;
+}
+
+[[nodiscard]] IDXGISwapChain3* swap_chain::get() const noexcept 
+{
+    if (!swapChain_) {
+        assert(false && "スワップチェインが未生成です");
+    }
+    return swapChain_.Get();
+}
+
+[[nodiscard]] const DXGI_SWAP_CHAIN_DESC1& swap_chain::getDesc() const noexcept 
+{
+    if (!swapChain_) {
+        assert(false && "スワップチェインが未生成です");
+    }
+    return swapChainDesc_;
 }

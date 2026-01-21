@@ -3,6 +3,7 @@
 
 class command_queue final
 {
+public:
 	command_queue() = default;
 
 	~command_queue() = default;
