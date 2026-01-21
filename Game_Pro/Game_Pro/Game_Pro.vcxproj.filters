@@ -10,6 +10,12 @@
     <Filter Include="asset">
       <UniqueIdentifier>{9d3e3102-5b3c-4a53-8359-a46129fc983e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="draw_resource">
+      <UniqueIdentifier>{ac415a30-84cf-4542-8904-e3ab2ddb772b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="object">
+      <UniqueIdentifier>{54a3b565-e8d0-4b33-ad8d-cb4053786658}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="input.h">
@@ -61,6 +67,19 @@
     <ClInclude Include="swap_chain.h">
       <Filter>directx</Filter>
     </ClInclude>
+    <ClInclude Include="shape.h">
+      <Filter>draw_resource</Filter>
+    </ClInclude>
+    <ClInclude Include="shape_container.h">
+      <Filter>draw_resource</Filter>
+    </ClInclude>
+    <ClInclude Include="triangle_polygon.h">
+      <Filter>draw_resource</Filter>
+    </ClInclude>
+    <ClInclude Include="quad_polygon.h">
+      <Filter>draw_resource</Filter>
+    </ClInclude>
+    <ClInclude Include="game_object_manager.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="input.cpp">
@@ -111,6 +130,19 @@
     <ClCompile Include="swap_chain.cpp">
       <Filter>directx</Filter>
     </ClCompile>
+    <ClCompile Include="shape.cpp">
+      <Filter>draw_resource</Filter>
+    </ClCompile>
+    <ClCompile Include="shape_container.cpp">
+      <Filter>draw_resource</Filter>
+    </ClCompile>
+    <ClCompile Include="triangle_polygon.cpp">
+      <Filter>draw_resource</Filter>
+    </ClCompile>
+    <ClCompile Include="quad_polygon.cpp">
+      <Filter>draw_resource</Filter>
+    </ClCompile>
+    <ClCompile Include="game_object_manager.cpp" />
   </ItemGroup>
   <ItemGroup>
     <FxCompile Include="..\..\..\shader.hlsl">

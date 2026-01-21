@@ -140,12 +140,17 @@
     <ClInclude Include="device.h" />
     <ClInclude Include="DXGI.h" />
     <ClInclude Include="fence.h" />
+    <ClInclude Include="game_object_manager.h" />
     <ClInclude Include="input.h" />
     <ClInclude Include="pipline_state_object.h" />
+    <ClInclude Include="quad_polygon.h" />
     <ClInclude Include="render_target.h" />
     <ClInclude Include="root_signature.h" />
     <ClInclude Include="shader.h" />
+    <ClInclude Include="shape.h" />
+    <ClInclude Include="shape_container.h" />
     <ClInclude Include="swap_chain.h" />
+    <ClInclude Include="triangle_polygon.h" />
     <ClInclude Include="util.h" />
     <ClInclude Include="window.h" />
   </ItemGroup>
@@ -159,12 +164,17 @@
     <ClCompile Include="device.cpp" />
     <ClCompile Include="DXGI.cpp" />
     <ClCompile Include="fence.cpp" />
+    <ClCompile Include="game_object_manager.cpp" />
     <ClCompile Include="input.cpp" />
     <ClCompile Include="pipline_state_object.cpp" />
+    <ClCompile Include="quad_polygon.cpp" />
     <ClCompile Include="render_target.cpp" />
     <ClCompile Include="root_signature.cpp" />
     <ClCompile Include="shader.cpp" />
+    <ClCompile Include="shape.cpp" />
+    <ClCompile Include="shape_container.cpp" />
     <ClCompile Include="swap_chain.cpp" />
+    <ClCompile Include="triangle_polygon.cpp" />
     <ClCompile Include="window.cpp" />
   </ItemGroup>
   <ItemGroup>
