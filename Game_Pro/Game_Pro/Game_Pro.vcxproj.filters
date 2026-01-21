@@ -55,6 +55,12 @@
     <ClInclude Include="pipline_state_object.h">
       <Filter>directx</Filter>
     </ClInclude>
+    <ClInclude Include="render_target.h">
+      <Filter>directx</Filter>
+    </ClInclude>
+    <ClInclude Include="swap_chain.h">
+      <Filter>directx</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="input.cpp">
@@ -97,6 +103,12 @@
       <Filter>directx</Filter>
     </ClCompile>
     <ClCompile Include="pipline_state_object.cpp">
+      <Filter>directx</Filter>
+    </ClCompile>
+    <ClCompile Include="render_target.cpp">
+      <Filter>directx</Filter>
+    </ClCompile>
+    <ClCompile Include="swap_chain.cpp">
       <Filter>directx</Filter>
     </ClCompile>
   </ItemGroup>
