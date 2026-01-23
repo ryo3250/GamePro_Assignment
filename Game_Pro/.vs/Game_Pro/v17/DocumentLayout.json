@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game2\\Game_Pro\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game2\\Game_Pro\\Game_Pro\\bullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\bullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game2\\Game_Pro\\Game_Pro\\game_object_manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\game_object_manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -43,6 +47,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "bullet.cpp",
+              "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game2\\Game_Pro\\Game_Pro\\bullet.cpp",
+              "RelativeDocumentMoniker": "Game_Pro\\bullet.cpp",
+              "ToolTip": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game2\\Game_Pro\\Game_Pro\\bullet.cpp",
+              "RelativeToolTip": "Game_Pro\\bullet.cpp",
+              "ViewState": "AQIAAA0AAAAAAAAAAADwvysAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-23T18:17:46.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "game_object_manager.cpp",
               "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game2\\Game_Pro\\Game_Pro\\game_object_manager.cpp",
               "RelativeDocumentMoniker": "Game_Pro\\game_object_manager.cpp",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "input.cpp",
               "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game2\\Game_Pro\\Game_Pro\\input.cpp",
               "RelativeDocumentMoniker": "Game_Pro\\input.cpp",
@@ -67,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "entry.cpp",
               "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game2\\Game_Pro\\Game_Pro\\entry.cpp",
               "RelativeDocumentMoniker": "Game_Pro\\entry.cpp",
@@ -79,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "shape_container.h",
               "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game2\\Game_Pro\\Game_Pro\\shape_container.h",
               "RelativeDocumentMoniker": "Game_Pro\\shape_container.h",
@@ -91,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "player.cpp",
               "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game2\\Game_Pro\\Game_Pro\\player.cpp",
               "RelativeDocumentMoniker": "Game_Pro\\player.cpp",
@@ -103,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "game_object_manager.h",
               "DocumentMoniker": "C:\\Users\\ryoko\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Game2\\Game_Pro\\Game_Pro\\game_object_manager.h",
               "RelativeDocumentMoniker": "Game_Pro\\game_object_manager.h",
