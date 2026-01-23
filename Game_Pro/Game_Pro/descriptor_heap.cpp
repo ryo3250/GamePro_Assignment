@@ -43,21 +43,21 @@ public:
         pendingFreeIndices_.clear();
     }
 
-    [[nodiscrad]] ID3D12DescriptorHeap* get() const noexcept {
+    [[nodiscard]] ID3D12DescriptorHeap* get() const noexcept {
         if (heap_) {
             assert(false && "ディスクリプタヒープが未生成です");
         }
         return heap_.Get();
     }
 
-    [[nodiscrad]] D3D12_DESCRIPTOR_HEAP_TYPE getType() const noexcept {
+    [[nodiscard]] D3D12_DESCRIPTOR_HEAP_TYPE getType() const noexcept {
         if (!heap_) {
             assert(false && "ディスクリプタヒープが未生成です");
         }
         return type_;
     }
 
-    [[nodiscrad]] std::optional<UINT> allocateDescriptor() noexcept {
+    [[nodiscard]] std::optional<UINT> allocateDescriptor() noexcept {
         if (freeIndices_.empty()) {
             return std::nullopt;
         }

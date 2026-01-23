@@ -12,9 +12,9 @@ public:
 	~pipline_state_object() = default;
 
 
-	[[nodiscrd]] bool create(const Shader& shader, const root_signature& rootSignature) noexcept;
+	[[nodiscard]] bool create(const Shader& shader, const root_signature& rootSignature) noexcept;
 
-	[[nodiscrd]] ID3D12PipelineState* get() const noexcept;
+	[[nodiscard]] ID3D12PipelineState* get() const noexcept;
 
 private:
         Microsoft::WRL::ComPtr<ID3D12PipelineState> pipelineState_{};

@@ -15,7 +15,7 @@ public:
     template <class T>
     [[nodiscard]] UINT64 create() noexcept {
         const auto id = id::get<T>();
-        if (shapes_.find(id) != shapes.end()) {
+        if (shapes_.find(id) != shapes_.end()) {
             return id;
         }
 
@@ -24,7 +24,7 @@ public:
             assert(false && "Œ`ó‚Ì¶¬‚É¸”s‚µ‚Ü‚µ‚½");
             return 0;
         }
-        shapes_.emlace(id, std::move(p));
+        shapes_.emplace(id, std::move(p));
         return id;
     }
 
@@ -39,7 +39,7 @@ private:
     shape_container(const shape_container&) = delete;
     shape_container& operator=(const shape_container&) = delete;
     shape_container(shape_container&&)                 = delete;
-    shape_container operator=(shape_container&&)       = delete;
+    shape_container& operator=(shape_container&&)     = delete;
 
 protected:
     std::unordered_map<UINT64, std::unique_ptr<shape>> shapes_;

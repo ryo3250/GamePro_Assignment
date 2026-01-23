@@ -26,6 +26,12 @@ public:
 };
 GameObjectContainer container_{};
 
+void GameObjectManager::registerCreation(std::function<std::unique_ptr<game_object>()> create, const UINT64 handle) noexcept {
+    container_.registerCreation(std::move(create), handle);
+}
+
+
+
 void GameObjectManager::update() noexcept {
     if (!container_.creation_.empty()) {
         for (auto& create : container_.creation_) {

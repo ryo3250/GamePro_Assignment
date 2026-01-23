@@ -76,7 +76,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <LanguageStandard>stdcpp17</LanguageStandard>
+      <LanguageStandard>stdcpp20</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -131,6 +131,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="bullet.h" />
+    <ClInclude Include="camera.h" />
     <ClInclude Include="command_allocator.h" />
     <ClInclude Include="command_list.h" />
     <ClInclude Include="command_queue.h" />
@@ -139,12 +141,14 @@
     <ClInclude Include="descriptor_heap.h" />
     <ClInclude Include="device.h" />
     <ClInclude Include="DXGI.h" />
+    <ClInclude Include="enemy.h" />
     <ClInclude Include="fence.h" />
     <ClInclude Include="game_object.h" />
     <ClInclude Include="game_object_manager.h" />
     <ClInclude Include="input.h" />
     <ClInclude Include="object.h" />
     <ClInclude Include="pipline_state_object.h" />
+    <ClInclude Include="player.h" />
     <ClInclude Include="quad_polygon.h" />
     <ClInclude Include="render_target.h" />
     <ClInclude Include="root_signature.h" />
@@ -157,6 +161,8 @@
     <ClInclude Include="window.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="bullet.cpp" />
+    <ClCompile Include="camera.cpp" />
     <ClCompile Include="command_allocator.cpp" />
     <ClCompile Include="command_list.cpp" />
     <ClCompile Include="command_queue.cpp" />
@@ -165,12 +171,15 @@
     <ClCompile Include="descriptor_heap.cpp" />
     <ClCompile Include="device.cpp" />
     <ClCompile Include="DXGI.cpp" />
+    <ClCompile Include="enemy.cpp" />
+    <ClCompile Include="entry.cpp" />
     <ClCompile Include="fence.cpp" />
     <ClCompile Include="game_object.cpp" />
     <ClCompile Include="game_object_manager.cpp" />
     <ClCompile Include="input.cpp" />
     <ClCompile Include="object.cpp" />
     <ClCompile Include="pipline_state_object.cpp" />
+    <ClCompile Include="player.cpp" />
     <ClCompile Include="quad_polygon.cpp" />
     <ClCompile Include="render_target.cpp" />
     <ClCompile Include="root_signature.cpp" />
@@ -180,9 +189,6 @@
     <ClCompile Include="swap_chain.cpp" />
     <ClCompile Include="triangle_polygon.cpp" />
     <ClCompile Include="window.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <FxCompile Include="..\..\..\shader.hlsl" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -35,7 +35,7 @@ public:
    
     template <typename T, typename... Args>
     [[nodiscard]] UINT64 createObject(Args&&... args) noexcept {
-        static_assert(std::is_base_of<GameObject, T>::value, "GameObject ‚Å‚Í‚È‚¢•¨‚ğì‚ë‚¤‚Æ‚µ‚Ä‚¢‚Ü‚·");
+        static_assert(std::is_base_of<game_object, T>::value, "GameObject ‚Å‚Í‚È‚¢•¨‚ğì‚ë‚¤‚Æ‚µ‚Ä‚¢‚Ü‚·");
         const auto handle = ++counter_;
 
         auto func = [... a = std::forward<Args>(args)]() mutable {

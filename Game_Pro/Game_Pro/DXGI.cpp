@@ -64,7 +64,7 @@
 	return true;
 }
 
-[[nodiscaed]] IDXGIFactory4* DXGI::factory() const noexcept 
+[[nodiscard]] IDXGIFactory4* DXGI::factory() const noexcept 
 {
 	if (!dxgiFactory_) 
 	{
@@ -74,7 +74,7 @@
 	return dxgiFactory_.Get();
 }
 
-[[nodiscaed]] IDXGIAdapter1* DXGI::displayAdapter() const noexcept 
+[[nodiscard]] IDXGIAdapter1* DXGI::displayAdapter() const noexcept 
 {
 	if (!dxgiAdapter_) 
 	{

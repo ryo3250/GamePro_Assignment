@@ -7,14 +7,14 @@
     <Filter Include="directx">
       <UniqueIdentifier>{c7b36464-3bc1-43ff-ac35-40da5c47775c}</UniqueIdentifier>
     </Filter>
-    <Filter Include="asset">
-      <UniqueIdentifier>{9d3e3102-5b3c-4a53-8359-a46129fc983e}</UniqueIdentifier>
-    </Filter>
     <Filter Include="draw_resource">
       <UniqueIdentifier>{ac415a30-84cf-4542-8904-e3ab2ddb772b}</UniqueIdentifier>
     </Filter>
     <Filter Include="object">
       <UniqueIdentifier>{54a3b565-e8d0-4b33-ad8d-cb4053786658}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="entry">
+      <UniqueIdentifier>{bdcb5fbd-1e80-4d6f-8a0b-5c12d138daa1}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -88,6 +88,18 @@
     <ClInclude Include="game_object.h">
       <Filter>object</Filter>
     </ClInclude>
+    <ClInclude Include="bullet.h">
+      <Filter>object</Filter>
+    </ClInclude>
+    <ClInclude Include="player.h">
+      <Filter>object</Filter>
+    </ClInclude>
+    <ClInclude Include="enemy.h">
+      <Filter>object</Filter>
+    </ClInclude>
+    <ClInclude Include="camera.h">
+      <Filter>object</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="input.cpp">
@@ -159,10 +171,20 @@
     <ClCompile Include="game_object.cpp">
       <Filter>object</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <FxCompile Include="..\..\..\shader.hlsl">
-      <Filter>asset</Filter>
-    </FxCompile>
+    <ClCompile Include="player.cpp">
+      <Filter>object</Filter>
+    </ClCompile>
+    <ClCompile Include="bullet.cpp">
+      <Filter>object</Filter>
+    </ClCompile>
+    <ClCompile Include="enemy.cpp">
+      <Filter>object</Filter>
+    </ClCompile>
+    <ClCompile Include="camera.cpp">
+      <Filter>object</Filter>
+    </ClCompile>
+    <ClCompile Include="entry.cpp">
+      <Filter>entry</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
