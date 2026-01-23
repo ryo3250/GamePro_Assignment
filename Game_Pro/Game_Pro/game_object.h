@@ -56,6 +56,9 @@ public:
     UINT64            parent_{};                                           /// 親オブジェクトハンドル
     float             radius_{};                                           /// 当たり判定用半径
 };
-}
+}  // namespace game
+
+class game_object {
+};
 
 

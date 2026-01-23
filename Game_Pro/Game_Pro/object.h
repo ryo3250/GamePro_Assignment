@@ -49,5 +49,4 @@ protected:
     UINT64         typeId_{};
 };
 
-}
-
+}  // namespace game

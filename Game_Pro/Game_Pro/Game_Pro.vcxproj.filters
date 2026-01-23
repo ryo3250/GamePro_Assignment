@@ -79,7 +79,15 @@
     <ClInclude Include="quad_polygon.h">
       <Filter>draw_resource</Filter>
     </ClInclude>
-    <ClInclude Include="game_object_manager.h" />
+    <ClInclude Include="game_object_manager.h">
+      <Filter>object</Filter>
+    </ClInclude>
+    <ClInclude Include="object.h">
+      <Filter>object</Filter>
+    </ClInclude>
+    <ClInclude Include="game_object.h">
+      <Filter>object</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="input.cpp">
@@ -142,7 +150,15 @@
     <ClCompile Include="quad_polygon.cpp">
       <Filter>draw_resource</Filter>
     </ClCompile>
-    <ClCompile Include="game_object_manager.cpp" />
+    <ClCompile Include="game_object_manager.cpp">
+      <Filter>object</Filter>
+    </ClCompile>
+    <ClCompile Include="object.cpp">
+      <Filter>object</Filter>
+    </ClCompile>
+    <ClCompile Include="game_object.cpp">
+      <Filter>object</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <FxCompile Include="..\..\..\shader.hlsl">
