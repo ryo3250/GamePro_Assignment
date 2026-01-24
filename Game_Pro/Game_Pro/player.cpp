@@ -1,6 +1,6 @@
 #include "player.h"
 #include "input.h"
-#include  "shape_container.h"
+#include "shape_container.h"
 #include "quad_polygon.h"
 
 #include "game_object_manager.h"

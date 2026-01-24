@@ -150,9 +150,10 @@ public:
         camera_ = std::make_unique<game::camera>();
         camera_->initialize();
 
+        UINT64 a;
         // ゲームオブジェクトの生成
-        game::GameObjectManager::instance().createObject<game::player>();
-        game::GameObjectManager::instance().createObject<game::enemy>();
+        a =game::GameObjectManager::instance().createObject<game::player>();
+        a =game::GameObjectManager::instance().createObject<game::enemy>();
 
         return true;
     }

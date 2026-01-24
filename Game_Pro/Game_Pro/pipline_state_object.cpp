@@ -51,14 +51,15 @@
     psoDesc.VS                = {shader.vertexShader()->GetBufferPointer(), shader.vertexShader()->GetBufferSize()};
     psoDesc.PS                = {shader.pixelShader()->GetBufferPointer(), shader.pixelShader()->GetBufferSize()};
     psoDesc.RasterizerState   = rasterizerDesc;
+    psoDesc.BlendState            = blendDesc;
     psoDesc.DepthStencilState = depthStateDesc;
     psoDesc.DSVFormat         = DXGI_FORMAT_D32_FLOAT;
-    psoDesc.SampleMask        = D3D12_PRIMITIVE_TOPOLOGY_TYPE_TRIANGLE;
+    psoDesc.SampleMask            = UINT_MAX;
+    psoDesc.PrimitiveTopologyType = D3D12_PRIMITIVE_TOPOLOGY_TYPE_TRIANGLE;
     psoDesc.NumRenderTargets  = 1;
     psoDesc.RTVFormats[0]     = DXGI_FORMAT_B8G8R8A8_UNORM;
     psoDesc.SampleDesc.Count  = 1;
-
-    auto res = device::instance().get()->CreateGraphicsPipelineState(&psoDesc, IID_PPV_ARGS(&pipelineState_));
+    auto res                  = device::instance().get()->CreateGraphicsPipelineState(&psoDesc, IID_PPV_ARGS(&pipelineState_));
     if (FAILED(res)) {
         assert(false && "パイプラインステートの作成に失敗");
     }

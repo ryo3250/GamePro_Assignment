@@ -3,7 +3,7 @@
 #include "DXGI.h"
 #include <d3d12.h>
 #include <wrl/client.h>
-#include "./util.h"
+#include "util.h"
 
 
 class device final

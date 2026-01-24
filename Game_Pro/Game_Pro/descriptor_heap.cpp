@@ -44,7 +44,7 @@ public:
     }
 
     [[nodiscard]] ID3D12DescriptorHeap* get() const noexcept {
-        if (heap_) {
+        if (!heap_) {
             assert(false && "ディスクリプタヒープが未生成です");
         }
         return heap_.Get();

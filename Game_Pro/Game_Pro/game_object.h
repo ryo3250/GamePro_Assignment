@@ -1,5 +1,5 @@
 #pragma once
-#include<DirectXMath.h>
+#include <DirectXMath.h>
 #include "object.h"
 
 namespace game 
@@ -16,7 +16,7 @@ public:
 public:
     virtual void initialize() noexcept override;
 
-    virtual void update() noexcept override;
+    virtual void update() noexcept override {};
 
     virtual void setDrawCommand(const command_list& commandList, UINT slot) noexcept override;
 
@@ -58,7 +58,5 @@ public:
 };
 }  // namespace game
 
-class game_object {
-};
 
 

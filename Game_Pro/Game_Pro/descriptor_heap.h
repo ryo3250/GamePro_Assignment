@@ -1,8 +1,8 @@
 #pragma once
-#include<d3d12.h>
-#include<unordered_map>
-#include<optional>
-#include<memory>
+#include <d3d12.h>
+#include <unordered_map>
+#include <optional>
+#include <memory>
 
 class descriptor_heap;
 

@@ -22,7 +22,7 @@ ConstantBuffer::~ConstantBuffer() {
  */
 [[nodiscard]] bool ConstantBuffer::create(UINT bufferSize) noexcept {
     // アライメント済みサイズの計算
-    const auto size = (sizeof(bufferSize) + 255) & ~255;
+    const auto size = (bufferSize + 255) & ~255;
 
     // バッファリソースの作成
     D3D12_HEAP_PROPERTIES heapProps{};

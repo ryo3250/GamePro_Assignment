@@ -2,12 +2,12 @@
 #include <cassert>
 #include <string>
 
-#include<d3dcompiler.h>
+#include <D3Dcompiler.h>
 #pragma comment(lib,"d3dcompiler.lib")
 
 [[nodiscard]] bool Shader::create() noexcept 
 {
-    const std::string filePath = "asset/shader.hlsl";
+    const std::string filePath = "shader.hlsl";
     const std::wstring temp     = std::wstring(filePath.begin(), filePath.end());
 
     ID3DBlob* error{};
@@ -41,7 +41,7 @@
 
 [[nodiscard]] ID3DBlob* Shader::pixelShader() const noexcept 
 {
-    if (!pixelShader) {
+    if (!pixelShader_) {
         assert(false && "ピクセルシェーダが未作成です");
     }
 
