@@ -1,90 +1,114 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\",
+  "WorkspaceRootPath": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\triangle_polygon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\triangle_polygon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\quad_polygon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\quad_polygon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\game_object_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\game_object_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\triangle_polygon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\triangle_polygon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\game_object_manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\game_object_manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\quad_polygon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\quad_polygon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\game_object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\shape.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\shape.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\shape_container.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\shape_container.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\game_object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\game_object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\game_object_manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\game_object_manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\shape_container.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\shape_container.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\game_object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\game_object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\constant_buffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\constant_buffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\bullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\bullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\descriptor_heap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\descriptor_heap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\pipline_state_object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\pipline_state_object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\device.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\device.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\descriptor_heap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\descriptor_heap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\depth_buffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\depth_buffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\entry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\entry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\shape.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\shape.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\shape.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\shape_container.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\shape_container.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\bullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\bullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\game_object_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\game_object_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\game_object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\game_object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\constant_buffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\constant_buffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\descriptor_heap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\descriptor_heap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\pipline_state_object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\pipline_state_object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\device.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\device.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\descriptor_heap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\descriptor_heap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\depth_buffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\depth_buffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\entry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\entry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{322ADA2F-7BAA-4C9D-899A-4577B3EDE1D9}|Game_Pro\\Game_Pro.vcxproj|solutionrelative:Game_Pro\\input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,82 +118,90 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "game_object_manager.h",
-              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\game_object_manager.h",
-              "RelativeDocumentMoniker": "Game_Pro\\game_object_manager.h",
-              "ToolTip": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\game_object_manager.h",
-              "RelativeToolTip": "Game_Pro\\game_object_manager.h",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAACoAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-01-23T17:54:21.66Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "object.h",
-              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\object.h",
-              "RelativeDocumentMoniker": "Game_Pro\\object.h",
-              "ToolTip": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\object.h",
-              "RelativeToolTip": "Game_Pro\\object.h",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-01-24T08:47:12.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "player.cpp",
-              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\player.cpp",
-              "RelativeDocumentMoniker": "Game_Pro\\player.cpp",
-              "ToolTip": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\player.cpp",
-              "RelativeToolTip": "Game_Pro\\player.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Title": "triangle_polygon.cpp",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\triangle_polygon.cpp",
+              "RelativeDocumentMoniker": "Game_Pro\\triangle_polygon.cpp",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\triangle_polygon.cpp",
+              "RelativeToolTip": "Game_Pro\\triangle_polygon.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-23T18:00:17.459Z",
+              "WhenOpened": "2026-01-31T08:47:01.217Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "game_object_manager.cpp",
-              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\game_object_manager.cpp",
-              "RelativeDocumentMoniker": "Game_Pro\\game_object_manager.cpp",
-              "ToolTip": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\game_object_manager.cpp",
-              "RelativeToolTip": "Game_Pro\\game_object_manager.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-23T18:15:10.15Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "game_object.cpp",
-              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\game_object.cpp",
-              "RelativeDocumentMoniker": "Game_Pro\\game_object.cpp",
-              "ToolTip": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\game_object.cpp",
-              "RelativeToolTip": "Game_Pro\\game_object.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-24T08:47:05.92Z",
+              "DocumentIndex": 9,
+              "Title": "shape_container.h",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\shape_container.h",
+              "RelativeDocumentMoniker": "Game_Pro\\shape_container.h",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\shape_container.h",
+              "RelativeToolTip": "Game_Pro\\shape_container.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-23T18:00:32.725Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "shape_container.cpp",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\shape_container.cpp",
+              "RelativeDocumentMoniker": "Game_Pro\\shape_container.cpp",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\shape_container.cpp",
+              "RelativeToolTip": "Game_Pro\\shape_container.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-31T08:35:11.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "quad_polygon.h",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\quad_polygon.h",
+              "RelativeDocumentMoniker": "Game_Pro\\quad_polygon.h",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\quad_polygon.h",
+              "RelativeToolTip": "Game_Pro\\quad_polygon.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-31T08:34:33.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "triangle_polygon.h",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\triangle_polygon.h",
+              "RelativeDocumentMoniker": "Game_Pro\\triangle_polygon.h",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\triangle_polygon.h",
+              "RelativeToolTip": "Game_Pro\\triangle_polygon.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-31T08:52:11.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "enemy.cpp",
-              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\enemy.cpp",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\enemy.cpp",
               "RelativeDocumentMoniker": "Game_Pro\\enemy.cpp",
-              "ToolTip": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\enemy.cpp",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\enemy.cpp",
               "RelativeToolTip": "Game_Pro\\enemy.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-01-24T08:27:51.486Z",
               "EditorCaption": ""
@@ -177,153 +209,229 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "object.cpp",
-              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\object.cpp",
-              "RelativeDocumentMoniker": "Game_Pro\\object.cpp",
-              "ToolTip": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\object.cpp",
-              "RelativeToolTip": "Game_Pro\\object.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
+              "Title": "game_object.cpp",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\game_object.cpp",
+              "RelativeDocumentMoniker": "Game_Pro\\game_object.cpp",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\game_object.cpp",
+              "RelativeToolTip": "Game_Pro\\game_object.cpp",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-24T08:30:58.336Z",
+              "WhenOpened": "2026-01-24T08:47:05.92Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "constant_buffer.cpp",
-              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\constant_buffer.cpp",
-              "RelativeDocumentMoniker": "Game_Pro\\constant_buffer.cpp",
-              "ToolTip": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\constant_buffer.cpp",
-              "RelativeToolTip": "Game_Pro\\constant_buffer.cpp",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwDYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "shape.cpp",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\shape.cpp",
+              "RelativeDocumentMoniker": "Game_Pro\\shape.cpp",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\shape.cpp",
+              "RelativeToolTip": "Game_Pro\\shape.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-24T08:09:18.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "pipline_state_object.cpp",
-              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\pipline_state_object.cpp",
-              "RelativeDocumentMoniker": "Game_Pro\\pipline_state_object.cpp",
-              "ToolTip": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\pipline_state_object.cpp",
-              "RelativeToolTip": "Game_Pro\\pipline_state_object.cpp",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAADsAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-24T07:54:33.034Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "descriptor_heap.cpp",
-              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\descriptor_heap.cpp",
-              "RelativeDocumentMoniker": "Game_Pro\\descriptor_heap.cpp",
-              "ToolTip": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\descriptor_heap.cpp",
-              "RelativeToolTip": "Game_Pro\\descriptor_heap.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAC4AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-24T07:18:55.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "shader.cpp",
-              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\shader.cpp",
-              "RelativeDocumentMoniker": "Game_Pro\\shader.cpp",
-              "ToolTip": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\shader.cpp",
-              "RelativeToolTip": "Game_Pro\\shader.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-24T06:32:45.39Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "game_object.h",
-              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\game_object.h",
-              "RelativeDocumentMoniker": "Game_Pro\\game_object.h",
-              "ToolTip": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\game_object.h",
-              "RelativeToolTip": "Game_Pro\\game_object.h",
-              "ViewState": "AgIAACoAAAAAAAAAAADwvzAAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-01-24T06:59:27.687Z",
+              "WhenOpened": "2026-01-31T08:34:36.92Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "bullet.cpp",
-              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\bullet.cpp",
-              "RelativeDocumentMoniker": "Game_Pro\\bullet.cpp",
-              "ToolTip": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\bullet.cpp",
-              "RelativeToolTip": "Game_Pro\\bullet.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-23T18:17:46.127Z",
-              "EditorCaption": ""
+              "Title": "shape.h",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\shape.h",
+              "RelativeDocumentMoniker": "Game_Pro\\shape.h",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\shape.h",
+              "RelativeToolTip": "Game_Pro\\shape.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-24T06:38:59.767Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "device.h",
-              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\device.h",
-              "RelativeDocumentMoniker": "Game_Pro\\device.h",
-              "ToolTip": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\device.h",
-              "RelativeToolTip": "Game_Pro\\device.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-01-24T07:21:29.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "descriptor_heap.h",
-              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\descriptor_heap.h",
-              "RelativeDocumentMoniker": "Game_Pro\\descriptor_heap.h",
-              "ToolTip": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\descriptor_heap.h",
-              "RelativeToolTip": "Game_Pro\\descriptor_heap.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-01-24T07:15:37.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "depth_buffer.cpp",
-              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\depth_buffer.cpp",
-              "RelativeDocumentMoniker": "Game_Pro\\depth_buffer.cpp",
-              "ToolTip": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\depth_buffer.cpp",
-              "RelativeToolTip": "Game_Pro\\depth_buffer.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAABAAAAAAAAAA==",
+              "Title": "bullet.cpp",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\bullet.cpp",
+              "RelativeDocumentMoniker": "Game_Pro\\bullet.cpp",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\bullet.cpp",
+              "RelativeToolTip": "Game_Pro\\bullet.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-24T07:32:51.692Z",
+              "WhenOpened": "2026-01-23T18:17:46.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "game_object_manager.cpp",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\game_object_manager.cpp",
+              "RelativeDocumentMoniker": "Game_Pro\\game_object_manager.cpp",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\game_object_manager.cpp",
+              "RelativeToolTip": "Game_Pro\\game_object_manager.cpp",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAUwFgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-23T18:15:10.15Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "player.h",
-              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\player.h",
-              "RelativeDocumentMoniker": "Game_Pro\\player.h",
-              "ToolTip": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\player.h",
-              "RelativeToolTip": "Game_Pro\\player.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-01-24T07:04:31.116Z",
-              "EditorCaption": ""
+              "DocumentIndex": 11,
+              "Title": "player.cpp",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\player.cpp",
+              "RelativeDocumentMoniker": "Game_Pro\\player.cpp",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\player.cpp",
+              "RelativeToolTip": "Game_Pro\\player.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-23T18:00:17.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "object.cpp",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\object.cpp",
+              "RelativeDocumentMoniker": "Game_Pro\\object.cpp",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\object.cpp",
+              "RelativeToolTip": "Game_Pro\\object.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-24T08:30:58.336Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "game_object.h",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\game_object.h",
+              "RelativeDocumentMoniker": "Game_Pro\\game_object.h",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\game_object.h",
+              "RelativeToolTip": "Game_Pro\\game_object.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-24T06:59:27.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "game_object_manager.h",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\game_object_manager.h",
+              "RelativeDocumentMoniker": "Game_Pro\\game_object_manager.h",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\game_object_manager.h",
+              "RelativeToolTip": "Game_Pro\\game_object_manager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-23T17:54:21.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "object.h",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\object.h",
+              "RelativeDocumentMoniker": "Game_Pro\\object.h",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\object.h",
+              "RelativeToolTip": "Game_Pro\\object.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-24T08:47:12.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "constant_buffer.cpp",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\constant_buffer.cpp",
+              "RelativeDocumentMoniker": "Game_Pro\\constant_buffer.cpp",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\constant_buffer.cpp",
+              "RelativeToolTip": "Game_Pro\\constant_buffer.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-24T08:09:18.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "pipline_state_object.cpp",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\pipline_state_object.cpp",
+              "RelativeDocumentMoniker": "Game_Pro\\pipline_state_object.cpp",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\pipline_state_object.cpp",
+              "RelativeToolTip": "Game_Pro\\pipline_state_object.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-24T07:54:33.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "descriptor_heap.cpp",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\descriptor_heap.cpp",
+              "RelativeDocumentMoniker": "Game_Pro\\descriptor_heap.cpp",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\descriptor_heap.cpp",
+              "RelativeToolTip": "Game_Pro\\descriptor_heap.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-24T07:18:55.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "shader.cpp",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\shader.cpp",
+              "RelativeDocumentMoniker": "Game_Pro\\shader.cpp",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\shader.cpp",
+              "RelativeToolTip": "Game_Pro\\shader.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-24T06:32:45.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "device.h",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\device.h",
+              "RelativeDocumentMoniker": "Game_Pro\\device.h",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\device.h",
+              "RelativeToolTip": "Game_Pro\\device.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-24T07:21:29.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "descriptor_heap.h",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\descriptor_heap.h",
+              "RelativeDocumentMoniker": "Game_Pro\\descriptor_heap.h",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\descriptor_heap.h",
+              "RelativeToolTip": "Game_Pro\\descriptor_heap.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-24T07:15:37.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "depth_buffer.cpp",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\depth_buffer.cpp",
+              "RelativeDocumentMoniker": "Game_Pro\\depth_buffer.cpp",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\depth_buffer.cpp",
+              "RelativeToolTip": "Game_Pro\\depth_buffer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-24T07:32:51.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "player.h",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\player.h",
+              "RelativeDocumentMoniker": "Game_Pro\\player.h",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\player.h",
+              "RelativeToolTip": "Game_Pro\\player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-24T07:04:31.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "entry.cpp",
-              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\entry.cpp",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\entry.cpp",
               "RelativeDocumentMoniker": "Game_Pro\\entry.cpp",
-              "ToolTip": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\entry.cpp",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\entry.cpp",
               "RelativeToolTip": "Game_Pro\\entry.cpp",
               "ViewState": "AgIAADYBAAAAAAAAAAAgwEkBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -332,39 +440,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
               "Title": "input.cpp",
-              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\input.cpp",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\input.cpp",
               "RelativeDocumentMoniker": "Game_Pro\\input.cpp",
-              "ToolTip": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\input.cpp",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\input.cpp",
               "RelativeToolTip": "Game_Pro\\input.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-01-23T18:13:51.848Z"
-            },
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "shape_container.h",
-              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\shape_container.h",
-              "RelativeDocumentMoniker": "Game_Pro\\shape_container.h",
-              "ToolTip": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\shape_container.h",
-              "RelativeToolTip": "Game_Pro\\shape_container.h",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACkAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-01-23T18:00:32.725Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "shape.h",
-              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\shape.h",
-              "RelativeDocumentMoniker": "Game_Pro\\shape.h",
-              "ToolTip": "C:\\Users\\ktc\\Desktop\\gamepro\\Game_Pro\\Game_Pro\\shape.h",
-              "RelativeToolTip": "Game_Pro\\shape.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-01-24T06:38:59.767Z"
+              "DocumentIndex": 1,
+              "Title": "quad_polygon.cpp",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\quad_polygon.cpp",
+              "RelativeDocumentMoniker": "Game_Pro\\quad_polygon.cpp",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\pro\\Game_Pro\\Game_Pro\\quad_polygon.cpp",
+              "RelativeToolTip": "Game_Pro\\quad_polygon.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-31T08:53:36.958Z",
+              "EditorCaption": ""
             }
           ]
         }

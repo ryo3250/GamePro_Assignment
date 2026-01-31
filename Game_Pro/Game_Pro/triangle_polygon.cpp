@@ -1,4 +1,4 @@
-#include "triangle_polygon.h"
+ï»¿#include "triangle_polygon.h"
 #include <cassert>
 
 namespace {
@@ -13,9 +13,9 @@ struct Vertex
 {
     Vertex triangleVertices[] =
         {
-            {  {0.0f, 0.5f, 0.0f}, {1.0f, 1.0f, 1.0f, 1.0f}}, // ã’¸“_
-            { {0.5f, -0.5f, 0.0f}, {1.0f, 1.0f, 1.0f, 1.0f}}, // ‰E‰º’¸“_
-            {{-0.5f, -0.5f, 0.0f}, {1.0f, 1.0f, 1.0f, 1.0f}}  // ¶‰º’¸“_
+            {  {0.0f, 0.5f, 0.0f}, {1.0f, 1.0f, 1.0f, 1.0f}}, // ä¸Šé ‚ç‚¹
+            { {0.5f, -0.5f, 0.0f}, {1.0f, 1.0f, 1.0f, 1.0f}}, // å³ä¸‹é ‚ç‚¹
+            {{-0.5f, -0.5f, 0.0f}, {1.0f, 1.0f, 1.0f, 1.0f}}  // å·¦ä¸‹é ‚ç‚¹
         };
 
     const auto vertexBufferSize = sizeof(triangleVertices);
@@ -49,7 +49,7 @@ struct Vertex
         nullptr,
         IID_PPV_ARGS(&vertexBuffer_));
     if (FAILED(res)) {
-        assert(false && "’¸“_ƒoƒbƒtƒ@‚Ìì¬‚É¸”s");
+        assert(false && "é ‚ç‚¹ãƒãƒƒãƒ•ã‚¡ã®ä½œæˆã«å¤±æ•—");
         return false;
     }
 
@@ -57,7 +57,7 @@ struct Vertex
 
     res = vertexBuffer_->Map(0, nullptr, reinterpret_cast<void**>(&data));
     if (FAILED(res)) {
-        assert(false && "’¸“_ƒoƒbƒtƒ@‚Ìƒ}ƒbƒv‚É¸”s");
+        assert(false && "é ‚ç‚¹ãƒãƒƒãƒ•ã‚¡ã®ãƒãƒƒãƒ—ã«å¤±æ•—");
         return false;
     }
 
@@ -68,6 +68,8 @@ struct Vertex
     vertexBufferView_.BufferLocation = vertexBuffer_->GetGPUVirtualAddress();
     vertexBufferView_.SizeInBytes    = vertexBufferSize;
     vertexBufferView_.StrideInBytes  = sizeof(Vertex);
+
+    topology_ = D3D_PRIMITIVE_TOPOLOGY_TRIANGLELIST;
 
     return true;
 }
@@ -108,7 +110,7 @@ struct Vertex
         nullptr,
         IID_PPV_ARGS(&indexBuffer_));
     if (FAILED(res)) {
-        assert(false && "ƒCƒ“ƒfƒbƒNƒXƒoƒbƒtƒ@‚Ìƒ}ƒbƒv‚Ìì¬‚É¸”s");
+        assert(false && "ã‚¤ãƒ³ãƒ‡ãƒƒã‚¯ã‚¹ãƒãƒƒãƒ•ã‚¡ã®ãƒãƒƒãƒ—ã®ä½œæˆã«å¤±æ•—");
         return false;
     }
 
@@ -116,7 +118,7 @@ struct Vertex
     res = indexBuffer_->Map(0, nullptr, reinterpret_cast<void**>(&data));
     if(FAILED(res)) 
     {
-        assert(false && "ƒCƒ“ƒfƒbƒNƒXƒoƒbƒtƒ@‚Ìƒ}ƒbƒv‚É¸”s");
+        assert(false && "ã‚¤ãƒ³ãƒ‡ãƒƒã‚¯ã‚¹ãƒãƒƒãƒ•ã‚¡ã®ãƒãƒƒãƒ—ã«å¤±æ•—");
         return false;
     }
 
